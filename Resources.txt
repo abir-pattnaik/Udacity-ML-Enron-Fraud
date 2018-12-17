@@ -1,0 +1,8 @@
+1.http://www.investopedia.com/updates/enron-scandal-summary/
+2.https://www.cs.cmu.edu/~./enron/
+3.https://www.forbes.com/2002/03/22/0322enronpay.html
+4.https://discussions.udacity.com/t/what-are-the-testing-features-when-using-selectkbest/234832/2?u=abir.pattanaik
+5.https://stackoverflow.com/questions/31231499/pruning-and-boosting-in-decision-trees
+6.https://stackoverflow.com/questions/22903267/what-is-tuning-in-machine-learning
+7.https://link.springer.com/referenceworkentry/10.1007%2F978-1-4419-9863-7_233
+8.https://stats.stackexchange.com/questions/72231/decision-trees-variable-feature-scaling-and-variable-feature-normalization
